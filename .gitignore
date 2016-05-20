@@ -1,0 +1,28 @@
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Executable
+AplusBisC
+HockinMann_JBC2002
+JonesMann_JBC1994
+michaelismenten
+nw_cons
+nw_data
+reducedHM
+
